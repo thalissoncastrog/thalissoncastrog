@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estudando HTML, CSS e Javascript...
 
-<div style="display: inline_block">
+<div style="display: flex">
   <a href="https://github.com/thalissoncastrog">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=thalissoncastrog&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissoncastrog&layout=compact&langs_count=7&theme=gotham"/>
