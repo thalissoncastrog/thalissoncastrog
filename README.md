@@ -1,4 +1,4 @@
-## E aí! Eu sou Thalisson Castro 👋
+## E aí! Eu sou Thalisson Castro 👋✌️
 
 - 🌱 Atualmente estudando HTML, CSS e Javascript...
 
