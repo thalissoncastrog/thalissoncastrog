@@ -1,6 +1,6 @@
 ## E aí! Eu sou Thalisson Castro ✌️
 
-- 🌱 Atualmente estudando HTML, CSS e Javascript...
+- 🌱 Atualmente estudando HTML, CSS, Javascript e Angular...
 
 <div>
   <a href="https://github.com/thalissoncastrog">
@@ -13,6 +13,7 @@
   <img align="center" alt="TC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="TC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TC-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TC-ANGULAR" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
 </div>
   
   ##
