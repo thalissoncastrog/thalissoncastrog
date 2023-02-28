@@ -1,6 +1,6 @@
 ## E aí! Eu sou Thalisson Castro ✌️
 
-- 🌱 Atualmente estudando HTML, CSS, Javascript e Angular...
+- 🌱 Atualmente estudando C#...
 
 <div>
   <a href="https://github.com/thalissoncastrog">
