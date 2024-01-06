@@ -1,6 +1,6 @@
 ## E aí! Eu sou Thalisson Castro ✌️
 
-- 🌱 Atualmente estudando .NET e NODE.Js...
+- 🌱 Atualmente estudando .NET e ReactJS...
 
 <div>
   <a href="https://github.com/thalissoncastrog">
