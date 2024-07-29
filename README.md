@@ -1,6 +1,11 @@
 ## E aí! Eu sou Thalisson Castro ✌️
 
 - 🌱 Atualmente estudando .NET e ReactJS...
+
+<div>
+  <a href="https://github.com/thalissoncastrog">
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=thalissoncastrog&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="TC-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
